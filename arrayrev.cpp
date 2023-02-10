@@ -2,6 +2,7 @@
 #include <string.h>
 using namespace std;
 int main(){
+    cout<<"hello";
     char arr[45]="meenakshi";
 int d=strlen(arr);
     for(int i=0;i<d;i++){
